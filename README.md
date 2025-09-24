@@ -17,5 +17,5 @@ Meanwhile, we simulated different water surface disturbance conditions in an ind
 We collected over 100 hours of real-world data, covering three disturbance levels: no disturbance, slight disturbance, and moderate disturbance.
 
 <img src='../Indoor Disturbance Generating Platform.gif' width='600px'>
-![Disturbance Generating Platform](Indoor Disturbance Generating Platform.gif)
+[Disturbance Generating Platform]( or the Indoor Disturbance Generating Platform.gif) The video shows our wave - making scenario. Here, you can see a spherical wave - making platform and a floating platform equipped with a robotic arm, both of which are placed in a blue water tank.
 
