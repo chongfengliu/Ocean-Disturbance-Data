@@ -15,3 +15,7 @@ The data above show a frame data of a RTK GPS, from which we can get the locatio
 
 Meanwhile, we simulated different water surface disturbance conditions in an indoor environment. We set up a water tank within a motion capture system, placed a floating platform inside the tank, and installed a robotic arm on the platform. Using a wave-making device developed in-house, we were able to induce swaying movements in the floating platform and the robotic arm. Furthermore, we attached marker points to the platform, the end effector of the robotic arm, and the base of the robotic arm, and constructed rigid bodies. This allowed us to simulate water surface sway in the indoor environment while simultaneously acquiring sway data of the floating platform and the robotic arm.
 We collected over 100 hours of real-world data, covering three disturbance levels: no disturbance, slight disturbance, and moderate disturbance.
+
+<img src='../Indoor Disturbance Generating Platform.gif' width='600px'>
+
+
